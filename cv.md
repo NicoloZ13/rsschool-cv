@@ -19,13 +19,13 @@ UX designer willing to learn coding
 *Second player: “UP” “DOWN” “RIGHT” “LEFT” arrows.  “SHIFT” - throw the disk  “CTRL” - recapture disk.*
 
 # Experience 
->Conversation Design Intern at Unilab
+- Conversation Design Intern at Unilab
 
 # Education 
-> DesignLab Training in UX Design 
-> Participated on Bitcamp.ge training
-> TBC IT Academy
+- DesignLab Training in UX Design 
+- Participated on Bitcamp.ge training
+- TBC IT Academy
 
 # English
-> Participated in exchange program
-> Worked in American environment 
+- Participated in exchange program
+- Worked in American environment 
